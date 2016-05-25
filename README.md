@@ -1,1 +1,7 @@
 # Test
+
+GitHubのテスト
+
+##メンバー
+
+*testmember
